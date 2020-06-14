@@ -1,5 +1,5 @@
 # ruby-fractions
-## Written for ENEE324 Assignment #1 Extra Credit by John Richards
+## Written by Jack Richards
 A simple program to prove rationals countable by assigning each enumerated rational number with a unique natural number as a label.
 
 ## Theory / Sources
